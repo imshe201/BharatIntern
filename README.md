@@ -1,1 +1,1 @@
-# BharatIntern
+# Oasis Infobyte Internship Projects
